@@ -1,30 +1,20 @@
-# Hi, I'm Shakana 👋 
+# Hi, I'm Shakana 👋
 
-### Full-stack Developer | Cloud Native Engineer | .NET 10 & Azure Specialist
-**Building resilient, cost-optimized architectures where clean code meets enterprise scale.**
-
----
-
-### 🚀 Current Mission
-I am currently finalizing the event-driven notification chain for **[FinSolve IDP](https://github.com/shakana0/FinSolve.IDP)**, focusing on $0 idle cost and cloud-native observability.
+## Cloud Native Engineer | .NET 10 & Azure Architect
+**Engineering resilient, cost-optimized systems with a $0 idle cost mindset.**
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
-
-| Backend & Cloud | Frontend & Web | Infrastructure & Tools |
-| :--- | :--- | :--- |
-| **.NET 10 / C#** | **Next.js / React** | **Bicep (IaC)** |
-| **Azure Serverless** | **TypeScript** | **GitHub Actions (CI/CD)** |
-| **SQL & NoSQL** | **Tailwind CSS** | **Azure Service Bus** |
+### 🚀 Focus
+- **Current:** Finalizing the event-driven notification chain for [FinSolve IDP](https://github.com/shakana0/FinSolve.IDP).
+- **Core:** .NET 10, Azure Serverless, Bicep (IaC), and Next.js.
+- **Goal:** Scalable architecture with extreme cost-efficiency.
 
 ---
-
-### 🧠 Engineering Principles
-* **Explicit Domain Models:** Clear logic over implicit behavior.
-* **Secure & Observable APIs:** Predictable, monitored, and secure by default.
-* **Cost-Aware Cloud:** Infrastructure should be measurable, optimized, and Bicep-driven.
-* **Resilient Deployment:** Every feature requires a clear rollback and recovery strategy.
+### 🧠 Principles
+- **Clean Architecture:** Explicit domain models over implicit behavior.
+- **Cloud Native:** Infrastructure as Code (Bicep) & Event-driven resilience.
+- **FinOps:** Every cloud resource must be measurable and optimized.
 
 ---
 
