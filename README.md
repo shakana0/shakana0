@@ -1,4 +1,4 @@
-# Hi, I'm Shakana 👋
+# <img src="plant.svg" height="35" align="center" /> Hi, I'm Shakana!
 
 ## [Cloud Native Engineer | .NET 10 & Azure Architect](https://shakanajamalm.com/)
 **Engineering resilient, cost-optimized systems with a $0 idle cost mindset.**
