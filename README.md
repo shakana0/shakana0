@@ -7,7 +7,7 @@
 
 ### 🚀 Focus
 - **Current:** Finalizing the event-driven notification chain for [FinSolve IDP](https://github.com/shakana0/FinSolve.IDP).
-- **Core:** .NET 10, Azure Serverless, Bicep (IaC), and Next.js.
+- **Core:** .NET 10, Azure Serverless and Bicep (IaC).
 - **Goal:** Scalable architecture with extreme cost-efficiency.
 
 ---
